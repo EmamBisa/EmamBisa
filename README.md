@@ -4,10 +4,12 @@
 
 ## I'm a security student and CTF player 🛡️🐍
 
-- 🧠 Building custom `volatility3` plugins  
-- ⚡ Scripting with **Python**, **Bash**, and **PowerShell**  
-- 🎮 Playing **CTFs**  
-
+- 🧠 Currently exploring **honeypot essentials**
+- ⚡ Scripting daily in **Python**, **Bash**, and **PowerShell**  
+- 🎯 Focused on **Blue Teaming**, **Threat Detection**, and **Forensic Analysis**  
+- 🎮 Active CTF player — enjoying solving diffrent ctf chall
+- 💻 Lover of minimalist terminals, dark mode, and pixel aesthetics  
+- 💬 Fav quote: *"Log everything. Trust nothing."*
 
 ---
 
@@ -16,3 +18,7 @@
  • `TryHackMe` • `Hack The Box` • `CTFtime`
 
 ---
+
+### 📊 Contribution Graph 2024 / 2025
+
+![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
