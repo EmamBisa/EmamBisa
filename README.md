@@ -1,7 +1,7 @@
 <h1 align="center">CTF player</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/kG2X8sI.png" width="100px" alt="Yellow Gem">
+  <img src="[https://i.imgur.com/kG2X8sI.png](https://github.com/EmamBisa/EmamBisa/issues/1#issue-3209719908)" width="100px" alt="Yellow Gem">
 </p>
 
 ## I'm a security student and CTF player 🛡️🐍
