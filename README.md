@@ -6,10 +6,15 @@
 ## I'm a security student and CTF player 🛡️🐍
 
 - 🧠 Currently exploring **honeypot essentials**
-- ⚡ Scripting daily in **Python**, **Bash**, and **PowerShell**  
-- 🎯 Focused on **Blue Teaming**, **Threat Detection**, and **Forensic Analysis**  
+  
+- ⚡ Scripting daily in **Python**, **Bash**, and **PowerShell**
+  
+- 🎯 Focused on **Blue Teaming**, **Threat Detection**, and **Forensic Analysis**
+  
 - 🎮 Active CTF player — enjoying solving diffrent ctf chall
-- 💻 Lover of minimalist terminals, dark mode, and pixel aesthetics  
+  
+- 💻 Lover of minimalist terminals, dark mode, and pixel aesthetics
+  
 - 💬 Fav quote: *"Log everything. Trust nothing."*
 
 ---
