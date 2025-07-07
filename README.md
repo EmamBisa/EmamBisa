@@ -4,6 +4,7 @@
 
 
 <img height="210" width="200" align="right" src="https://github.com/user-attachments/assets/596083d4-be9c-4e90-b78e-eb4197f8a86c" />
+
 ## I'm a security student and CTF player 🛡️🐍
 
 - 🧠 Currently exploring **honeypot essentials**
@@ -23,9 +24,3 @@
 ### 🧪 Active on
 
  • `TryHackMe` • `Hack The Box` • `CTFtime`
-
----
-
-### 📊 Contribution Graph 2024 / 2025
-
-![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
