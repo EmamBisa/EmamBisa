@@ -15,4 +15,4 @@ I'm a security student and CTF player 🛡️🐍
 
 ### 🧪 Active on
 
- • `TryHackMe` • `Hack The Box` • `CTFtime`
+ • `TryHackMe` • `Hack The Box` • `Discord`
