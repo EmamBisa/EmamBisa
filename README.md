@@ -11,9 +11,8 @@
 - ✨ I'm currently working on some <code>volatility3</code> plugins  
 - ⚡ Scripting stuff with <strong>Python</strong> and <strong>PowerShell</strong>  
 - 🎮 Playing CTFs with <strong>L3ak</strong>  
-- ⌨️ Practicing touch typing, current record <strong>156 WPM @ 60 Seconds</strong>  
-- 🧱 Top <strong>0.01%</strong> on Blue Team Labs (<strong>4th in North America</strong>)  
-- 📜 <strong>BTL1</strong> | <strong>Security+</strong> | <strong>Pentest+</strong> | <strong>CySA+</strong> | <strong>ITF+</strong>  
+
+
 
 </td>
 <td>
@@ -29,5 +28,3 @@
 - 💡 Practicing on: <code>BTLO</code>, <code>TryHackMe</code>, <code>Hack The Box</code>, <code>CTFtime</code>
 
 ---
-
-### 📊 Contribution Graph 2024 / 2025
