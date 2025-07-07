@@ -6,7 +6,6 @@
   <img src="https://github.com/user-attachments/assets/596083d4-be9c-4e90-b78e-eb4197f8a86c" width="100px" alt="Yellow Gem">
 </p>
 
-
 ## I'm a security student and CTF player 🛡️🐍
 
 - ⚡ Scripting in **Python**, **Bash**, and **PowerShell**
@@ -14,7 +13,12 @@
 - 📡 Monitoring network traffic & analyzing attacker behavior
 - 🎮 Competing in CTFs with a passion for defensive security
 - 🧠 Learning from HTB, BTLO, and THM
-
+</td>
+<td>
+  <img src="https://github.com/user-attachments/assets/596083d4-be9c-4e90-b78e-eb4197f8a86c" width="100px" alt="Yellow Gem">
+</td>
+  </tr>
+</table>
 ---
 
 ### 🧪 Labs & Progress
