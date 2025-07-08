@@ -23,4 +23,4 @@ I'm a security student and CTF player 🛡️🐍
  • `life` • 
 
  'my simple yet writeup'
- https://mudinnn0s-organization.gitbook.io/art3m1s
+ https://art3m1s.gitbook.io/art3m1s/
