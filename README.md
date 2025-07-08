@@ -20,7 +20,7 @@ I'm a security student and CTF player 🛡️🐍
 
 ### 🧪 Active on
 
- • `TryHackMe` • `Hack The Box` • `Discord`
+ • `life` • 
 
  'my simple yet writeup'
  https://mudinnn0s-organization.gitbook.io/art3m1s
