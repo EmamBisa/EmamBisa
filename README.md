@@ -8,7 +8,7 @@ I'm a security student and CTF player 🛡️🐍
   
 - ⚡ Scripting daily in **Python**, **Bash**, and **PowerShell**
   
-- 🎯 Focused on **Blue Teaming**, **Threat Detection**, and **Forensic Analysis**
+- 🎯 Focused on **OSINT**, **Cryptogrphy**, and **Forensic Analysis**
   
 - 🎮 Active CTF player — enjoying solving different CTF challenges
   
