@@ -5,7 +5,7 @@ I'm a security student and CTF player 🛡️🐍
 
 - 🧠 Currently exploring **honeypot essentials**
 - ⚡ Scripting daily in **Python**, **Bash**, and **PowerShell**
-- 🎯 Focused on **OSINT**, **Cryptography**, and **Forensic Analysis**
+- 🎯 Focused on **OSINT**, **Cryptography**, and **Web Exploitation**
 - 🎮 Active CTF player — enjoying solving different CTF challenges
 - 💻 Lover of minimalist terminals, dark mode, and pixel aesthetics
 - 💬 Fav quote: *"Log everything. Trust nothing."*
