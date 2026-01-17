@@ -60,11 +60,23 @@
 └──────────────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
-<!-- LIFE / ART (ANIMATED) -->
+<!-- LIFE / ARTS (UNDERWORLD) — fixed + improved (no block characters issues) -->
+<!-- Notes:
+     1) Some fonts/devices render █ badly inside the SVG. Using ASCII bars instead.
+     2) Added an “ALICE” themed status line (no copyrighted images). -->
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=900&pause=550&color=D4AF37&center=true&vCenter=true&width=1000&height=38&lines=LIFE+%5B+████████████████░░░░+%5D+84%25+%E2%97%86+ARTS+%5B+███████████░░░░░░░+%5D+63%25;LIFE+%5B+███████████████░░░░░+%5D+79%25+%E2%97%86+ARTS+%5B+████████████░░░░░░+%5D+68%25"
-    alt="Life/Arts"
+    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=1400&pause=700&color=D4AF37&center=true&vCenter=true&width=1000&height=46&lines=LIFE+%5B+%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D----+%5D+84%25+%E2%97%86+ARTS+%5B+%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D-------+%5D+63%25;LIFE+%5B+%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D-----+%5D+79%25+%E2%97%86+ARTS+%5B+%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D----+%5D+68%25"
+    alt="Life / Arts Bars"
+  />
+</p>
+
+<!-- ALICE / INTEGRITY KNIGHT “SYSTEM PROMPT” (text-only, SAO-inspired) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=1200&pause=800&color=FFD966&center=true&vCenter=true&width=1000&height=46&lines=%5B+UNDERWORLD+%5D+INTEGRITY+KNIGHT+PROTOCOL%3A+ACTIVE;%E2%9C%A6+ALICE+SYNTHESIS+THIRTY+%E2%97%86+SYSTEM+GUIDANCE%3A+ONLINE"
+    alt="Alice line"
   />
 </p>
 
